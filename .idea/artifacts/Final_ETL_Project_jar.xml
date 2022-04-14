@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Final_ETL_Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_ETL_Project_jar</output-path>
+    <root id="archive" name="Final_ETL_Project.jar">
+      <element id="module-output" name="Final_ETL_Project" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/postgresql-42.3.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
